@@ -6,7 +6,7 @@ published_at: 2017-9-12
 post_image: open-source--technology.jpg
 ---
 
-##### Open source technology ensures the knowledge enters the public domain and protects information sharing and further innovation possibilities.
+## Open source technology ensures the knowledge enters the public domain, protects information sharing and further innovation possibilities
 
 ### ThreeFold open source components overview
 
