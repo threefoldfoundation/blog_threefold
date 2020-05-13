@@ -1,12 +1,12 @@
 ---
-title: "What can I do with the New Edge Cloud"
+title: "Use cases for the ThreeFold Peer-to-Peer Cloud"
 author: Sam
 tags: edge cloud, tech
 published_at: 2017-9-12
 post_image: what-can-i-do.jpg
 ---
 
-##  Use cases of how the ThreeFold Edge Cloud can be used.
+##  Use cases for the ThreeFold Peer-to-Peer Cloud
 
 ### Any Docker Service
 
