@@ -6,6 +6,8 @@ published_at: 2017-9-12
 post_image: the_need_for_new.jpg
 ---
 
+## You are unique
+
 During a gathering with some friends, I noticed something that made me think about how important it is what we’re doing. 
 
 One of my friends was complaining about how he couldn’t log in to one of his social media platforms, because all of his passwords are different and he forgot which one he used for this particular platform. Another friend was saying how she tagged her sister on a funny meme, but her sister couldn’t find it on Facebook. Turns out she tagged her on Instagram. And then one of them said something that I keep hearing more and more from people, “Why do we have so many apps, I can’t find anything anymore!” 
