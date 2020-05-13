@@ -6,7 +6,7 @@ published_at: 2017-9-12
 post_image: airbnb-for-internet-capacity.jpg
 ---
 
-# Decentralizing the Internet
+## Decentralizing the Internet
 
 ##### In this article, we discuss the general concept of a ‘decentralized grid’ and how anyone is able to plug-in capacity to the ThreeFold Grid.
 
