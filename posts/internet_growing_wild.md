@@ -6,7 +6,7 @@ published_at: 2017-9-12
 post_image: internet-is-growing.jpg
 ---
 
-##### The internet is growing in a way which is not sustainable, there has to be an alternative.
+### The internet is growing in a way which is not sustainable, there has to be an alternative.
 
 ### Internet capacity needs to become localized
 
