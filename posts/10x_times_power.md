@@ -6,7 +6,7 @@ published_at: 2017-9-12
 post_image: 10x-times-power.jpg
 ---
 
-### How does ThreeFold achieve the efficient power usage in the Zero-OS node?
+## How does ThreeFold achieve the efficient power usage in the Zero-OS node?
 
 Today, global Internet and IT infrastructure require enormous amounts of energy. It is responsible for between 5% and 10% of annual global energy consumptions, making the IT industry amongst the most pollutive industries in the world (more than the airline industry).
 
@@ -42,4 +42,4 @@ By using a more efficient means to exchange data between physical CPU units, Zer
 
 The storage solution uses slow and big (the bigger the better) HDD disks which drive in rack density. As they spin slower they consume less power and need less cooling. But then, how can you deal with read/write intensive workloads? The storage algorithm uses a SSD cache to acknowledge Inputs/Outputs coming from the applications, fills the erasure coded data blocks in large (up to 64MB) storage containers and writes the big chunks of data on the big and slow HHDs. If you are familiar with HDD disks, you know they like to be streamed on instead of having a lot of small bits written in a scratchy way.
 
-##### Continuous innovation in all of these areas has lead to a very efficient technology stack.
+#### Continuous innovation in all of these areas has lead to a very efficient technology stack.
