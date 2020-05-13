@@ -3,7 +3,7 @@ title: "ThreeFold creates a more responsible, neutral, and decentralized interne
 author: Stela
 tags: farming, grid
 published_at: 2020-?-?
-post_image: threefold_hpe.png
+post_image: threefold_hpe.jpeg
 ---
 
 ## ThreeFold creates a more responsible, neutral, and decentralized internet with Hewlett Packard Enterprise
