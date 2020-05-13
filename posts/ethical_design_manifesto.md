@@ -6,7 +6,7 @@ published_at: 2017-9-12
 post_image: ethicaldesign.jpg
 --- 
 
-##### Creating solutions that respect humanity and the planet
+## Creating solutions that respect humanity and the planet
 
 ### Respect Human Rights
 
