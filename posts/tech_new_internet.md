@@ -6,7 +6,7 @@ published_at: 2017-9-12
 post_image: technology-for-internet.jpg
 ---
 
-### ThreeFold's technology does not follow the traditional IT model. 
+## ThreeFold's technology does not follow the traditional IT model 
 
 The Edge internet needs a different approach. So, we started as from scratch and shaped a totally new approach. ThreeFold's open-source technology addresses the scalability, security, storage, energy and operating issues by simplifying architectures and not relying on third party software. This drives down costs and improves efficiencies.
 
@@ -17,7 +17,6 @@ ThreeFold's technology is based on three primary building blocks:  Stateless Com
 - **Stateless Computing**: a stateless operating system, Zero-OS, enabling distributed hardware to form an Edge Internet grid generating IT storage and compute capacity
 - **Self-Healing Technology**: controls and operates a distributed cloud and reserves, procures and executes workloads on the grid using our Jumpscale platform. It delivers autoscaling and automation frameworks that enable self-healing and can be adapted for any kind of IT workload.
 - **Blockchain Technology**: Via Rivine - our secure, scalable “proof of stake” blockchain, along with our identity management platform, ItsYou.online. Our blockchain technology enables user authentication, access controls, secure workloads and heightened security.
-
 
 ### Enabling Stateless Computing
 
