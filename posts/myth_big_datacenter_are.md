@@ -6,7 +6,7 @@ published_at: 2017-9-12
 post_image: myth-big-datacenters-are-efficient.jpg
 ---
 
-##### Hyperscale realities are very different to what most people think.
+## Hyperscale realities are very different to what most people think
 
 ### Myth 1: Bigger data centers are more efficient
 
