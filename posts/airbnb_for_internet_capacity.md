@@ -1,5 +1,5 @@
 ---
-title: "The AirBnB of Internet Capacity"
+title: "Decentralizing the Internet"
 author: Roel
 tags: capacity, decentralization, farming
 published_at: 2017-9-12
