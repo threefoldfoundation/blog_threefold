@@ -1,12 +1,12 @@
 ---
-title: "The need for a ThreeFold's neutral Internet"
+title: "The need for ThreeFold's neutral internet"
 author: Kristof
 tags: neutrality, internet
 published_at: 2017-9-12
 post_image: neutral-internet.jpg
 ---
 
-##### The internet is growing like crazy and is now a Trillion Dollar problem. Together we can build a new neutral internet.
+## The internet is growing like crazy and is now a Trillion Dollar problem. Together we can build a new neutral internet.
 
 ### An introduction to the problems
 
