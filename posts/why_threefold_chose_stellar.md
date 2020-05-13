@@ -1,12 +1,20 @@
-## Why ThreeFold chose Stelar
+---
+title: "Why ThreeFold chose Stellar"
+author: Sam
+tags: capacity, decentralization, farming
+published_at: 2020-?-?
+post_image: stellar_header.png
+---
+
+## Why ThreeFold chose Stellar
 
 At ThreeFold, together with a beautiful ecosystem of partners, we are co-creating a peer-to-peer Internet that empowers equality, freedom, and sustainability.
 
 To be honest, we were always focused on building and utilizing [our own transactional blockchain](https://github.com/threefoldtech/rivine). We wanted to make sure we did it in the right way, upholding our values - but then we realized that the solution was already out there.
 
-_Stellar is an open-source network for currencies and payments. Stellar makes it possible to create, send and trade digital representations of all forms of money - dollars, pesos, bitcoin, pretty much anything. It's designed so all the world's financial systems can work together on a single network.
+_Stellar is an open-source network for currencies and payments. Stellar makes it possible to create, send and trade digital representations of all forms of money - dollars, pesos, bitcoin, pretty much anything. It's designed so all the world's financial systems can work together on a single network._
 
-Stellar has no owner; if anything it's owned by the public. The software runs across a decentralized, open network and handles millions of transactions each day. Like Bitcoin and Ethereum, Stellar relies on blockchain to keep the network in sync, but the end-user experience is more like cash - Stellar is much faster, cheaper, and more energy-efficient than typical blockchain-based systems._
+_Stellar has no owner; if anything it's owned by the public. The software runs across a decentralized, open network and handles millions of transactions each day. Like Bitcoin and Ethereum, Stellar relies on blockchain to keep the network in sync, but the end-user experience is more like cash - Stellar is much faster, cheaper, and more energy-efficient than typical blockchain-based systems._
 
 In the spirit of collaboration, something we believe in heavily, we knew the right decision was to abandon our own transactional blockchain and to move our ThreeFold Token (TFT) to Stellar.
 
