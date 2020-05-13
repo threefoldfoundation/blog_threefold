@@ -1,9 +1,9 @@
 ---
 title: "Why we do what we do"
 author: Sam
-tags: token, digital currencies
+tags: peer-to-peer, equality, freedom, sustainability
 published_at: 2020-?-?
-post_image:
+post_image: why_we_do.png
 ---
 
 ## Why we do what we do
