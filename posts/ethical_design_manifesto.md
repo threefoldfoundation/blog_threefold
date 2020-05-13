@@ -1,5 +1,5 @@
 ---
-title: "Human and Planet First Manifesto"
+title: "Creating solutions that respect humanity and the planet"
 author: Stela
 tags: human, design
 published_at: 2017-9-12
@@ -30,7 +30,6 @@ post_image: ethicaldesign.jpg
 - **Inclusiveness**: Design should always be global and inclusive. We are all equal.
 - **Design**: Products should be visually appealing and should achieve it's purpose.
 - **Transparency**: Organisational records and strategies should be accessible to everyone. 
-
 
 ![EthicalDesign@https://docs.grid.tf/dividi/values/raw/branch/master/images/ethical_design_small.png](./img/ethicaldesign.png)
 
