@@ -6,7 +6,7 @@ published_at: 2017-9-12
 post_image: 
 ---
 
-## The Magical Zero-Node
+## Our Magical Zero-Node
 
 The guiding design principle at ThreeFold when developing technology is that simpler solutions increase efficiency and productivity. 
 
