@@ -6,7 +6,7 @@ published_at: 2017-9-12
 post_image: the_need_for_new.jpg
 ---
 
-## You Are Unique
+## You are unique
 
 During a gathering with some friends, I noticed something that made me think about how important it is what we’re doing. 
 
