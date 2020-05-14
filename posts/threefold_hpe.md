@@ -1,12 +1,10 @@
 ---
 title: "ThreeFold creates a more responsible, neutral, and decentralized internet with Hewlett Packard Enterprise"
-author: Stela
-tags: farming, grid
-published_at: 2020-?-?
+author: Sabrina
+tags: farming, grid, partner
+published_at: 2018-10-18
 post_image: threefold_hpe.jpeg
 ---
-
-## ThreeFold creates a more responsible, neutral, and decentralized internet with Hewlett Packard Enterprise
 
 Dubai, UAE: Today at GITEX Technology Week, ThreeFold signed a Memorandum of Understanding (MOU) with Hewlett Packard Enterprise (HPE) to cooperate in the CEEMA region on the implementation of a decentralized grid of computing and storage capacity, which enables a neutral, low cost and low energy internet on a global scale.
 
