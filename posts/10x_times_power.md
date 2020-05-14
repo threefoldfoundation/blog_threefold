@@ -1,8 +1,7 @@
 ---
 title: "10 times power savings, is this possible?"
 author: Kristof
-author_email: "kristof@threefold.io"
-author_image_filename: "kristof.jpg"
+author_image: kristof.jpg
 tags: sustainability, IT
 published_at: 2018-10-18
 post_image: 10x_times_power.jpg
