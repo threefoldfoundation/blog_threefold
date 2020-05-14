@@ -1,6 +1,8 @@
 ---
 title: "An escape from the Great Hack"
-author: Stela
+author: Sabrina
+author_email: "sabrina@threefold.io"
+author_image_filename: "sabrina.jpg"
 tags: human, design
 published_at: 2017-9-12
 post_image: escape.jpg

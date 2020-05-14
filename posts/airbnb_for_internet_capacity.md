@@ -1,6 +1,8 @@
 ---
 title: "Decentralizing the Internet"
 author: Roel
+author_email: "roel@threefold.io"
+author_image_filename: "roel.jpg"
 tags: capacity, decentralization, farming
 published_at: 2019-8-21
 post_image: airbnb_for_internet_capacity.jpg
