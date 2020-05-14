@@ -6,8 +6,6 @@ published_at: 2017-9-12
 post_image: 10x_times_power.jpg
 ---
 
-## How does ThreeFold achieve the efficient power usage in the Zero-OS node?
-
 Today, global Internet and IT infrastructure require enormous amounts of energy. It is responsible for between 5% and 10% of annual global energy consumptions, making the IT industry amongst the most pollutive industries in the world (more than the airline industry).
 
 We believe IT can be sustainable. Actually, it should should!  That's why sustainability was a key focus of ours. With climate change and sustainability becoming pressing issues within our global agenda, new green solutions are a priority. It was key to ThreeFold since the very beginning of it's story to enable a technological infrastructure that can reduce the Internet’s carbon footprint drastically. Today we can prove up-to 99% power savings.
