@@ -3,7 +3,7 @@ title: "Decentralizing the Internet"
 author: Roel
 tags: capacity, decentralization, farming
 published_at: 2017-9-12
-post_image: airbnb-for-internet-capacity.jpg
+post_image: airbnb_for_internet_capacity.jpg
 ---
 
 ## Decentralizing the Internet
