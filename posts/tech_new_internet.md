@@ -1,6 +1,7 @@
 ---
 title: "A new approach to the Internet Architecture"
 author: Weynand
+author_image: weynand.jpg
 tags: tech, internet
 published_at: 2017-9-12
 post_image: technology-for-internet.jpg

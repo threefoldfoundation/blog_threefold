@@ -1,6 +1,7 @@
 ---
 title: "Use cases for the ThreeFold Peer-to-Peer Cloud"
 author: Sam
+author_image: sam.jpg
 tags: edge cloud, tech
 published_at: 2017-9-12
 post_image: what_can_i_do.jpg

@@ -1,6 +1,7 @@
 ---
 title: "ThreeFold creates a more responsible, neutral, and decentralized internet with Hewlett Packard Enterprise"
 author: Sabrina
+author_image: sabrina.jpg
 tags: farming, grid, partner
 published_at: 2018-10-18
 post_image: threefold_hpe.jpeg

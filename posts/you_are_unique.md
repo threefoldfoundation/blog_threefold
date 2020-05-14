@@ -1,6 +1,7 @@
 ---
 title: "You Are Unique"
 author: Sabrina
+author_image: sabrina.jpg
 tags: token, digital currencies
 published_at: 2017-9-12
 post_image: the_need_for_new.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Creating solutions that respect humanity and the planet"
-author: Stela
-tags: human, design
+author: Kristof
+author_image: kristof.jpg
 published_at: 2017-9-12
 post_image: ethicaldesign.jpg
 --- 

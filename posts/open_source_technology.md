@@ -1,6 +1,7 @@
 ---
 title: "Open Source Technology sets the foundation for a better future"
 author: Kristof
+author_image: kristof.jpg
 tags: tech, open source
 published_at: 2017-9-12
 post_image: open-source--technology.jpg
