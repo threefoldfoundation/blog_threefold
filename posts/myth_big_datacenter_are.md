@@ -3,7 +3,7 @@ title: "Datacenter Myths"
 author: Andreas
 author_image: andreas.jpg
 tags: sustainability, tech
-published_at: 2017-9-12
+published_at: 2017-10-12
 post_image: myth-big-datacenters-are-efficient.jpg
 ---
 

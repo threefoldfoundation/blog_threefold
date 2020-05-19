@@ -3,7 +3,7 @@ title: "An intro to the ThreeFold Token"
 author: Sacha
 author_image: sacha.jpg
 tags: token, digital currencies
-published_at: 2020-?-?
+published_at: 2020-1-14
 post_image: token_new_internet.png
 ---
 

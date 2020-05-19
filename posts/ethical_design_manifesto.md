@@ -2,7 +2,7 @@
 title: "Creating solutions that respect humanity and the planet"
 author: Kristof
 author_image: kristof.jpg
-published_at: 2017-9-12
+published_at: 2017-6-6
 post_image: ethicaldesign.jpg
 --- 
 

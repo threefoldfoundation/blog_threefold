@@ -3,7 +3,7 @@ title: "Why we do what we do"
 author: Sam
 author_image: sam.jpg
 tags: peer-to-peer, equality, freedom, sustainability
-published_at: 2020-?-?
+published_at: 2020-4-8
 post_image: why_we_do.png
 ---
 

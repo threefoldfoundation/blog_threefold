@@ -3,7 +3,7 @@ title: "An intro to ThreeFold Farming"
 author: Sacha
 author_image: sacha.jpg
 tags: farming, grid
-published_at: 2020-?-?
+published_at: 2020-2-3
 post_image: token_new_internet.png
 ---
 

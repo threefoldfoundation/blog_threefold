@@ -3,7 +3,7 @@ title: "ThreeFold's Circular Economy"
 author: Sam
 author_image: sam.jpg
 tags: token
-published_at: 2020-?-?
+published_at: 2020-3-6
 post_image: circular_economy.png
 ---
 
