@@ -4,7 +4,7 @@ author: Sabrina
 author_image: sabrina.jpg
 tags: token, digital currencies
 published_at: 2019-12-5
-post_image: the_need_for_new.jpg
+post_image: unique.jpg
 ---
 
 ## You are unique

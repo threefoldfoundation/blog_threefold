@@ -4,7 +4,7 @@ author: Sacha
 author_image: sacha.jpg
 tags: token, digital currencies
 published_at: 2020-1-14
-post_image: token_new_internet.png
+post_image: intro_threefold_token.jpg
 ---
 
 ## An intro to the ThreeFold Token (in 2020)

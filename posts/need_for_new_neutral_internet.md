@@ -4,7 +4,7 @@ author: Kristof
 author_image: kristof.jpg
 tags: neutrality, internet
 published_at: 2017-6-1
-post_image: neutral-internet.jpg
+post_image: neutral_internet.jpg
 ---
 
 ## The internet is growing like crazy and is now a Trillion Dollar problem. Together we can build a new neutral internet.

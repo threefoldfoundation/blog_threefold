@@ -4,7 +4,7 @@ author: Kristof
 author_image: kristof.jpg
 tags: edge cloud, tech, node
 published_at: 2017-7-12
-post_image: 
+post_image: our_magical_zero_node.jpg
 ---
 
 ## Our Magical Zero-Node

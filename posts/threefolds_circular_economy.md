@@ -4,7 +4,7 @@ author: Sam
 author_image: sam.jpg
 tags: token
 published_at: 2020-3-6
-post_image: circular_economy.png
+post_image: circular_economy.jpg
 ---
 
 ## ThreeFold's Circular Economy

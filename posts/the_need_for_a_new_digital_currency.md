@@ -4,7 +4,7 @@ author: Adnan
 author_image: adnan.jpg
 tags: token, digital currencies
 published_at: 2019-3-6
-post_image: the_need_for_new.jpg
+post_image: sustainable_currency.jpg
 ---
 
 ## The world needs a new stable & green digital currency, which is usable globally

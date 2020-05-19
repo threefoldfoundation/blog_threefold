@@ -4,7 +4,7 @@ author: Kristof
 author_image: kristof.jpg
 tags: tech, open source
 published_at: 2018-2-2
-post_image: open-source--technology.jpg
+post_image: open_source_technology.jpg
 ---
 
 ## Open source technology ensures the knowledge enters the public domain, protects information sharing and further innovation possibilities
