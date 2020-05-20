@@ -2,7 +2,7 @@
 title: "You Are Unique"
 author: Sabrina
 author_image: sabrina.jpg
-tags: token, digital currencies
+tags: human, 3bot, autonomy, equality
 published_at: 2019-12-5
 post_image: unique.jpg
 ---
