@@ -30,6 +30,6 @@ After a successful ICO in 2018, Tomochain experienced an incredible growth last 
 ### About ThreeFold
 ThreeFold has developed the largest and most advanced peer-to-peer Internet grid in the world.  They launched the ThreeFold Grid V2.0 in  April 2020 - a  more performant, private & secure, affordable, and sustainable solution than centralized cloud and internet providers. 
 
-With a collective and incentivized ecosystem of Farmers (independent Internet capacity providers) around the globe, the ThreeFold Grid is now open for developers to build on top of it,  and users can now benefit from all the advantages of the ThreeFold Grid.
+With a collective and incentivized ecosystem of Farmers (independent Internet capacity providers) around the globe, the ThreeFold Grid is now open for developers to build on top of it and benefit from all the advantages that comes with it.
 
 The ThreeFold Foundation aims to empower a more equal, autonomous (decentralized) and sustainable world, and does so  by providing the necessary peer-to-peer technologies and infrastructure to the world, while incentivizing growth in developing regions.
