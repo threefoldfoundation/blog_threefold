@@ -2,6 +2,7 @@
 title: "Creating solutions that respect humanity and the planet"
 author: Kristof
 author_image: kristof.jpg
+tags: human, sustainability, freedom, autonomy
 published_at: 2017-6-6
 post_image: respect_love.jpg
 --- 
