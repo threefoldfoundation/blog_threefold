@@ -20,16 +20,16 @@ sidebar_links:
 sidebar_social_links:
   - link: https://www.facebook.com/threefold.io/
     faclass: fab fa-facebook fa-2x
-    colorcode: blue
+    colorcode: #3b5998
   - link: https://twitter.com/threefold_io
     faclass: fab fa-twitter fa-2x
-    colorcode: blue
+    colorcode: #00acee
   - link: https://www.linkedin.com/company/threefold-foundation/
     faclass: fab fa-linkedin fa-2x
-    colorcode: blue
+    colorcode: #0e76a8
   - link: https://t.me/threefoldnews
     faclass: fab fa-telegram fa-2x
-    colorcode: blue
+    colorcode: black
 
 nav_links:
   - title: about
