@@ -7,8 +7,6 @@ published_at: 2020-1-14
 post_image: intro_threefold_token.jpg
 ---
 
-## An intro to the ThreeFold Token (in 2020)
-
 The ThreeFold Token (TFT) is a decentralised digital currency used to buy autonomous and decentralised Internet services (compute, storage, and application) on the ThreeFold Network — it represents a unit of reservation of autonomous Internet capacity on the ThreeFold Grid.
 
 Capacity is a new high-demand market, and the TFT will be the medium of exchange for this commodity on the peer-to-peer internet brought by the ThreeFold Network. TFT synergistically connects the world of cloud and blockchain markets to the most scalable universal substrate without compromising, performance, security and privacy.
