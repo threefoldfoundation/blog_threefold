@@ -1,13 +1,13 @@
 blog_title: "ThreeFold Blog"
 blog_description: ""
 blog_logo: logo.svg"
-author_name: "ahmed"
-author_email: "ahmed@there.com"
-author_image_filename: "me.jpg"
+author_name: ""
+author_email: ""
+author_image_filename: ""
 posts_dir: "posts"
 pages_dir: "pages"
 images_dir: "assets/images"
-github_username: "xmonader"
+github_username: ""
 posts_per_page: 6
 allow_disqus: false
 
@@ -18,15 +18,14 @@ sidebar_links:
     link: https://yahoo.com
 
 sidebar_social_links:
-  - title: facebook
-    link: https://www.facebook.com/ThreeFoldNetwork/
-    class: fab fa-facebook
-  - title: instagram
-    link: https://instagram.com
-    faclass: fab fa-instagram
-  - title: twitter
-    link: https://instagram.com
+  - link: https://www.facebook.com/threefold.io/
+    faclass: fab fa-facebook
+  - link: https://twitter.com/threefold_io
     faclass: fab fa-twitter
+  - link: https://www.linkedin.com/company/threefold-foundation/
+    faclass: fab fa-linkedin
+  - link: https://t.me/threefoldnews
+    faclass: fab fa-telegram
 
 nav_links:
   - title: about

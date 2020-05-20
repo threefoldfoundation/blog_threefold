@@ -2,7 +2,7 @@
 title: "An escape from the Great Hack"
 author: Sabrina
 author_image: sabrina.jpg
-tags: human, design
+tags: human, design, internet
 published_at: 2019-11-21
 post_image: escape.jpg
 --- 

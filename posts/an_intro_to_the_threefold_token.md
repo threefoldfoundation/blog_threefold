@@ -2,12 +2,10 @@
 title: "An intro to the ThreeFold Token"
 author: Sacha
 author_image: sacha.jpg
-tags: token, digital currencies
+tags: token
 published_at: 2020-1-14
 post_image: intro_threefold_token.jpg
 ---
-
-## An intro to the ThreeFold Token (in 2020)
 
 The ThreeFold Token (TFT) is a decentralised digital currency used to buy autonomous and decentralised Internet services (compute, storage, and application) on the ThreeFold Network — it represents a unit of reservation of autonomous Internet capacity on the ThreeFold Grid.
 
@@ -21,4 +19,7 @@ No ThreeFold Tokens have ever been minted. ThreeFold Tokens are generated throug
 2. While the threeFold Grid can expand, a maximum of 2 Billion TFTs can be in circulation. This limit ensures stability of value and incentivization for all stakeholders.
 3. TFT lives on the Stellar Blockchain. TFT holders benefit from a big ecosystem of proven wallets and mediums of exchange.
 4. By employing Stellar technology, TFT transactions and smart contracts are powered by one of the most energy-efficient blockchains available. Furthermore, TFT is the medium of exchange on the greenest internet network in the world.
-5. By buying, holding, and utilizing ThreeFold Tokens, you are actively supporting the expansion of the ThreeFold Grid and its use cases — creating a more sustainable, fair, and equally accessible Internet.
+5. The market for farming, cultivating and trading TFT is open to all. Anyone with internet connection, power supply and necessary harware can become a Farmer or trade ThreeFold tokens (TFT).
+6. By buying, holding, and utilizing ThreeFold Tokens, you are actively supporting the expansion of the ThreeFold Grid and its use cases — creating a more sustainable, fair, and equally accessible Internet.
+
+Important note: TFT's are not an investment instrument. It is the medium of exchange on the ThreeFold Grid, and is a mechanism to enable the Internet we believe is possible.

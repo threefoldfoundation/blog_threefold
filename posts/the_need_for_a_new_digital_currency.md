@@ -2,7 +2,7 @@
 title: "The need for a sustainable digital currency"
 author: Adnan
 author_image: adnan.jpg
-tags: token, digital currencies
+tags: token
 published_at: 2019-3-6
 post_image: sustainable_currency.jpg
 ---

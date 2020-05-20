@@ -2,7 +2,7 @@
 title: "Decentralizing the Internet"
 author: Roel
 author_image: roel.jpg
-tags: capacity, decentralization, farming
+tags: grid, decentralization, farming
 published_at: 2019-8-21
 post_image: decentralzing_the_internet.jpg
 ---
