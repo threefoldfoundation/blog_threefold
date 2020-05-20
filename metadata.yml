@@ -20,7 +20,7 @@ sidebar_links:
 sidebar_social_links:
   - title: facebook
     link: https://www.facebook.com/threefold.io/
-    class: fab fa-facebook
+    faclass: fab fa-facebook
   - title: twitter
     link: https://twitter.com/threefold_io
     faclass: fab fa-twitter
