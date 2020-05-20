@@ -6,8 +6,6 @@ published_at: 2017-6-6
 post_image: respect_love.jpg
 --- 
 
-## Creating solutions that respect humanity and the planet
-
 ### Respect Human Rights
 
 - **Sustainability**: It is important for a very simple reason: we cannot maintain our quality of life as human beings, the diversity of life on our planet, or Earth's ecosystems unless we embrace and protect it's balance.
