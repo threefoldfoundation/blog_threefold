@@ -27,7 +27,7 @@ sidebar_social_links:
     colorcode: blue
   - link: https://t.me/threefoldnews
     faclass: fab fa-telegram
-    colorcode: white
+    colorcode: black
 
 nav_links:
   - title: about
