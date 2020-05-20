@@ -7,8 +7,6 @@ published_at: 2020-4-8
 post_image: why_we_do.png
 ---
 
-## Why we do what we do
-
 If not now, when? If not us, who?
 
 _We are growing a green and responsible peer-to-peer Internet that is available everywhere and owned by everyone — across geographical and cultural borders, empowering people to be digitally independent and providing equal chances to learn, partake and succeed._
