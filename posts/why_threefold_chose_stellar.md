@@ -2,14 +2,14 @@
 title: "Why ThreeFold chose Stellar"
 author: Sam
 author_image: sam.jpg
-tags: token, partner, 
+tags: token, partner
 published_at: 2020-5-1
 post_image: stellar.jpg
 ---
 
 At ThreeFold, together with a beautiful ecosystem of partners, we are co-creating a peer-to-peer Internet that empowers equality, freedom, and sustainability.
 
-To be honest, we were always focused on building and utilizing [our own transactional blockchain (https://github.com/threefoldtech/rivine). We wanted to make sure we did it in the right way, upholding our values - but then we realized that the solution was already out there.
+To be honest, we were always focused on building and utilizing [our own transactional blockchain] (https://github.com/threefoldtech/rivine). We wanted to make sure we did it in the right way, upholding our values - but then we realized that the solution was already out there.
 
 _Stellar is an open-source network for currencies and payments. Stellar makes it possible to create, send and trade digital representations of all forms of money - dollars, pesos, bitcoin, pretty much anything. It's designed so all the world's financial systems can work together on a single network._
 
