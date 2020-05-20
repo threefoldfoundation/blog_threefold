@@ -22,4 +22,4 @@ No ThreeFold Tokens have ever been minted. ThreeFold Tokens are generated throug
 5. The market for farming, cultivating and trading TFT is open to all. Anyone with internet connection, power supply and necessary harware can become a Farmer or trade ThreeFold tokens (TFT).
 6. By buying, holding, and utilizing ThreeFold Tokens, you are actively supporting the expansion of the ThreeFold Grid and its use cases — creating a more sustainable, fair, and equally accessible Internet.
 
-Important note: TFT's are not an investment instrument. It is the medium of exchang eon the ThreeFold Grid, and a mechanism to enable the Internet we believe is possible.
+Important note: TFT's are not an investment instrument. It is the medium of exchange on the ThreeFold Grid, and is a mechanism to enable the Internet we believe is possible.
