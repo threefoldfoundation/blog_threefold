@@ -18,12 +18,14 @@ sidebar_links:
     link: https://yahoo.com
 
 sidebar_social_links:
-  - title: facebook
-    link: https://www.facebook.com/threefold.io/
+  - link: https://www.facebook.com/threefold.io/
     faclass: fab fa-facebook
-  - title: twitter
-    link: https://twitter.com/threefold_io
+  - link: https://twitter.com/threefold_io
     faclass: fab fa-twitter
+  - link: https://www.linkedin.com/company/threefold-foundation/
+    faclass: fab fa-linkedin
+  - link: https://t.me/threefoldnews
+    faclass: fab fa-telegram
 
 nav_links:
   - title: about
