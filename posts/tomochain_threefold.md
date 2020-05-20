@@ -22,8 +22,8 @@ Furthermore, with the recent announcement of TomoChain’s DEX Protocol, TomoX, 
 ### About Tomochain
 TomoChain is a scalable blockchain, powered via Proof-of-Stake Voting consensus and used commercially by companies globally. The TomoChain blockchain and product ecosystem enable the development of high-performance blockchain projects that focus on decentralizing finance. Their products include:
 
-- Fast & Near-Zero Fees: 2000 TPS, 2-second block-time, and EVM  compatible.
-- An array of original features and protocols designed to support speed, privacy, usability, and liquidity needs all in one platform. 
+* Fast & Near-Zero Fees: 2000 TPS, 2-second block-time, and EVM  compatible.
+* An array of original features and protocols designed to support speed, privacy, usability, and liquidity needs all in one platform. 
 
 After a successful ICO in 2018, Tomochain experienced an incredible growth last year to become one of the most reputed blockchains of South East Asia, and globally. They now focus on their mission to accelerate the onboarding of millions of users by empowering today’s applications with technology that masks the friction of Blockchain, all while retaining its underlying benefits.
 
