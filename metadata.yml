@@ -24,8 +24,10 @@ sidebar_social_links:
     faclass: fab fa-twitter
   - link: https://www.linkedin.com/company/threefold-foundation/
     faclass: fab fa-linkedin
+    colorcode: blue
   - link: https://t.me/threefoldnews
     faclass: fab fa-telegram
+    colorcode: white
 
 nav_links:
   - title: about
