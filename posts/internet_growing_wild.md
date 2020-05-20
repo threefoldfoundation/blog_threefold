@@ -7,7 +7,7 @@ published_at: 2019-12-5
 post_image: wild.jpg
 ---
 
-## The internet is growing in a way which is not sustainable, there has to be an alternative.
+**The internet is growing in a way which is not sustainable, there has to be an alternative.**
 
 ### Internet capacity needs to become localized
 
