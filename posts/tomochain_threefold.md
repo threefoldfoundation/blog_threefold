@@ -2,7 +2,7 @@
 title: "TomoChain & ThreeFold: Joining forces to decentralize Cloud Computing &  TomoChain Masternodes."
 author: Sacha
 author_image: sacha.jpg
-tags: partner, news, tech, decentralization
+tags: partner, news, tech, decentralization, grid
 published_at: 2020-5-20
 post_image: tomochain_threefold.jpeg
 ---
