@@ -1,9 +1,10 @@
 ---
 title: "An intro to ThreeFold Farming"
 author: Sacha
+author_image: sacha.jpg
 tags: farming, grid
-published_at: 2020-?-?
-post_image: token_new_internet.png
+published_at: 2020-2-3
+post_image: intro_threefold_token.jpg
 ---
 
 ## An intro to ThreeFold Farming

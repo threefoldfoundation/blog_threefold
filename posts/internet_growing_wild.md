@@ -1,9 +1,10 @@
 ---
 title: "Internet is growing wild"
 author: Andreas
+author_image: andreas.jpg
 tags: edge cloud, tech
-published_at: 2017-9-12
-post_image: internet-is-growing.jpg
+published_at: 2019-12-5
+post_image: wild.jpg
 ---
 
 ## The internet is growing in a way which is not sustainable, there has to be an alternative.

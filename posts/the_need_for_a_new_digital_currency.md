@@ -1,14 +1,15 @@
 ---
 title: "The need for a sustainable digital currency"
 author: Adnan
+author_image: adnan.jpg
 tags: token, digital currencies
-published_at: 2017-9-12
-post_image: the_need_for_new.jpg
+published_at: 2019-3-6
+post_image: sustainable_currency.jpg
 ---
 
 ## The world needs a new stable & green digital currency, which is usable globally
 
-Digital currencies are on the way to global adoption as a mainstream currency. Today, there are approximately 130+ billion dollars worth of digital currencies in circulation and approximately 1 billion dollars traded on a daily basis on open market exchanges.  Benefits of digital currencies include direct peer-to-peer transactions (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
+Digital currencies are on the way to global adoption as a mainstream currency. Today, there are approximately 130+ billion dollars worth of digital currencies in circulation and approximately 1 billion dollars traded on a daily basis on open market exchanges.  Benefits of digital currencies include direct peer-to-peer transacti9ons (requiring no intermediaries such as banks); greater trust (secured by cryptography and mathematics); lower friction charges; faster transaction times and no single point of failure.
 
 However, crypto currencies commonly face some major problems, such as:
 

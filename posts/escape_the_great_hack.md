@@ -1,8 +1,9 @@
 ---
 title: "An escape from the Great Hack"
-author: Stela
+author: Sabrina
+author_image: sabrina.jpg
 tags: human, design
-published_at: 2017-9-12
+published_at: 2019-11-21
 post_image: escape.jpg
 --- 
 

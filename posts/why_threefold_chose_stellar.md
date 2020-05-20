@@ -1,9 +1,10 @@
 ---
 title: "Why ThreeFold chose Stellar"
 author: Sam
+author_image: sam.jpg
 tags: capacity, decentralization, farming
-published_at: 2020-?-?
-post_image: stellar_header.png
+published_at: 2020-5-1
+post_image: stellar.jpg
 ---
 
 ## Why ThreeFold chose Stellar

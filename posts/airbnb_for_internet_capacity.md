@@ -1,12 +1,11 @@
 ---
 title: "Decentralizing the Internet"
 author: Roel
+author_image: roel.jpg
 tags: capacity, decentralization, farming
-published_at: 2017-9-12
-post_image: airbnb_for_internet_capacity.jpg
+published_at: 2019-8-21
+post_image: decentralzing_the_internet.jpg
 ---
-
-## Decentralizing the Internet
 
 ##### In this article, we discuss the general concept of a ‘decentralized grid’ and how anyone is able to plug-in capacity to the ThreeFold Grid.
 
