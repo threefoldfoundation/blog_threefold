@@ -7,8 +7,6 @@ published_at: 2020-3-6
 post_image: circular_economy.jpg
 ---
 
-## ThreeFold's Circular Economy
-
 The ThreeFold Grid’s capacity is made available by farmers — entrepreneurs who provide capacity by connecting hardware to the ThreeFold Grid. They build a more sustainable Internet for generations to come. The ThreeFold Network is changing the Internet for the highest good of all, and you can play a big role in this by becoming a farmer.
 
 Here’s how things play out on the ThreeFold Network:
