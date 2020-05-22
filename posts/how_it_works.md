@@ -3,7 +3,7 @@ title: "ThreeFold's Long Story Short"
 author: Sam
 author_image: sam.jpg
 tags: sustainability
-published_at: 2018-5-20
+published_at: 2020-5-15
 post_image: longstoryshort.jpg
 ---
 
