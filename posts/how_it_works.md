@@ -4,20 +4,18 @@ author: Sam
 author_image: sam.jpg
 tags: sustainability
 published_at: 2018-5-20
-post_image: 10x_times_power.jpg
+post_image: longstoryshort.jpg
 ---
 
 The truth is that ThreeFold is a big project. Here we will try to make things a little simpler for you.
 
 ### So, ThreeFold is building a new internet. Why?
-Well, we’d recommend heading back to the intro page and taking another read.
-
-But, what it boils down to is that currently the internet is only available to about 1/2 of the world (meaning billions are being left behind), it is centralized (a handful of large corporations own and profit off of our data), and it uses up to 10% of the world’s energy consumption. So, we’re building a new internet that empowers equality (access), autonomy (data ownership, for example), and sustainability (reduces energy consumption).
+What it boils down to is that currently the internet is only available to about 1/2 of the world (meaning billions are being left behind), it is centralized (a handful of large corporations own and profit off of our data), and it uses up to 10% of the world’s energy consumption. So, we’re building a new internet that empowers equality (access), autonomy (data ownership, for example), and sustainability (reduces energy consumption).
 
 ### How does it work?
 Everything on the internet – websites, apps, photos, videos, etc – uses up capacity and is stored in huge data centers owned by big companies, mainly in North America, Europe, and some in Asia. In our solution, centralized data centers are replaced with a grid of “nodes” distributed around the world.
 
-These nodes are owned by ThreeFold Farmers – but only the physical hardware – the data inside of the nodes belongs to the people or organizations who put it there. So, “farmers” plug in hardware and start to create capacity that can be used by people.
+These nodes are owned by [ThreeFold Farmers](https://wiki2.threefold.io/#/what_is_a_farmer) – but only the physical hardware – the data inside of the nodes belongs to the people or organizations who put it there. So, “farmers” plug in hardware and start to create capacity that can be used by people.
 
 Farmers come in all shapes and sizes. Some farmers run small data centers while others simply run a node out of their living room.
 
@@ -58,7 +56,7 @@ As we mentioned above, tokens are generated when ThreeFold Farmers adds capacity
 Essentially, the ThreeFold Token is the medium of exchange on the new internet. So, if a developer wants to build something (e.g. a website or an app) or a user wants to store something (e.g. photos), he/she/they use(s) ThreeFold Tokens.
 
 ### Why not just use euros or dollars?
-Good news! We’ve actually written up a nice explanation about why a token is needed. And if you’re new to the world of digital currencies, you can read more here.
+Good news! We’ve actually written up a nice explanation about [why a token is needed](https://wiki2.threefold.io/#/token_why).
 
 ### Need more answers?
-We hope that helps explains things. Obviously there is a whole wiki here to dive in to. If you don’t find what you’re looking for, please reach out to marketing@threefold.io and we’ll make sure we get it added.
+We hope that helps explains things. Obviously there is [a whole wiki](https://wiki.threefold.io) to dive in to. If you don’t find what you’re looking for, please reach out to marketing@threefold.io and we’ll make sure we get it added.
