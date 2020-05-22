@@ -18,7 +18,7 @@ Further, community members are also being invited to explore possibilities in us
 The ThreeFold team is very proud to welcome The DigiByte Foundation to the [Conscious Internet Alliance](https://consciousinternet.org) initiative led by ThreeFold, where together with many other planet and human-centric projects, they will collaborate on making our global Internet neutral again. 
 
 ### About DigiByte:
-DigiByte is a rapidly-growing open-source blockchain created in late 2013 and released in early 2014. After 6 years of forward-thinking development, DigiByte has become one of the safest, fastest, longest and most decentralized UTXO blockchain in existence with one of the most active communities in the Crypto and Blockchain space
+[DigiByte](https://digibyte.io/) is a rapidly-growing open-source blockchain created in late 2013 and released in early 2014. After 6 years of forward-thinking development, DigiByte has become one of the safest, fastest, longest and most decentralized UTXO blockchain in existence with one of the most active communities in the Crypto and Blockchain space
 
 The DigiByte Foundation is a volunteer-managed organization that operates in a non-profit way. They protect and promote the true principles of decentralization and empower DigiByte and its community to establish and maintain a sustainable decentralized world. 
 
