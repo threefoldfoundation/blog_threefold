@@ -1,13 +1,11 @@
 ---
 title: "An intro to ThreeFold Farming"
-author: Sacha
-author_image: sacha.jpg
+author: Andreas
+author_image: andreas.jpg
 tags: farming, grid
 published_at: 2020-2-3
 post_image: intro_threefold_token.jpg
 ---
-
-## An intro to ThreeFold Farming
 
 We probably don’t need to tell you that the invention of Blockchain technology changed the world dramatically. The ThreeFold application of Blockchain technology to compute and storage capacity is one of the most exciting initiatives we have seen to date.
 

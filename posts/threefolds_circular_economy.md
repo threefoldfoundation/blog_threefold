@@ -1,7 +1,7 @@
 ---
 title: "ThreeFold's Circular Economy"
-author: Sam
-author_image: sam.jpg
+author: Roel
+author_image: roel.jpg
 tags: token, grid
 published_at: 2020-3-6
 post_image: circular_economy.jpg
