@@ -47,6 +47,7 @@ There are a few reasons for us being more sustainable. Data centers are super un
 - Using new algorithms (e.g. the one mentioned above for storage) which have dramatic efficiency improvement
 - Re-using hardware where possible – let’s not throw away
 
+
 ### How much will it cost?
 In the end we want to provide sustainable access to the internet and all of its solutions for less than a dollar per month per person but for now the cost will depend on what you choose to do. Certain experiences will cost money. Storing photos or videos, for example. But all at a fair price.
 
