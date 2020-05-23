@@ -10,7 +10,7 @@ post_image: longstoryshort.jpg
 The truth is that ThreeFold is a big project. Here we will try to make things a little simpler for you.
 
 ### So, ThreeFold is building a new internet. Why?
-What it boils down to is that currently the internet is only available to about 1/2 of the world (meaning billions are being left behind), it is centralized (a handful of large corporations own and profit off of our data), and it uses up to 10% of the world’s energy consumption. So, we’re building a new internet that empowers equality (access), autonomy (data ownership, for example), and sustainability (reduces energy consumption).
+We believe strongly that a new internet is needed. What it boils down to is that currently the internet is only available to about 1/2 of the world (meaning billions are being left behind), it is centralized (a handful of large corporations own and profit off of our data), and it uses up to 10% of the world’s energy consumption. So, we’re building a new (peer-to-peer) internet that empowers equality (access), autonomy (data ownership, for example), and sustainability (reduces energy consumption).
 
 ### How does it work?
 Everything on the internet – websites, apps, photos, videos, etc – uses up capacity and is stored in huge data centers owned by big companies, mainly in North America, Europe, and some in Asia. In our solution, centralized data centers are replaced with a grid of “nodes” distributed around the world.
@@ -26,6 +26,9 @@ It’s true that rebuilding the internet is not so simple. But a lot of infrastr
 
 ### 21+ countries? What happened to equality?
 As far along as we are, we still have work to do. One of our biggest goals in the near future is to expand the grid to Africa, South America, and parts of Asia where currently the Internet is too expensive or not available. Currently, we farming is incentivized around these key geographies.
+
+### And what do you mean by peer-to-peer?
+Peer-to-peer means no middlemen – direct exchange of information and/or value between equal participants. Peer-to-peer means decentralization – breaking away from pyramid-based systems, greed-based systems – and putting **people** back in the center of their own (digital) lives.
 
 ### So how can I access / use your internet today? What can I do on it?
 By June, some of the first experiences will be live. This includes file storage and communication tools and a virtual browser, all with the advantages of being more sustainable for our planet and with full control of your own data. And over time, more and more experiences will come to this internet. We’ll be updating here and on our communication platforms as they come. But don’t worry, as a user it doesn’t change much – no coding required. :)
