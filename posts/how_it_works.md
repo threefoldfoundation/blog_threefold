@@ -10,7 +10,7 @@ post_image: longstoryshort.jpg
 The truth is that ThreeFold is a big project. Here we will try to make things a little simpler for you.
 
 ### So, ThreeFold is building a new internet. Why?
-We strongly believe that a new internet is needed for our planet and for humanity. "If not now, when? If not who, us?"
+We strongly believe that a new internet is needed for our planet and for humanity. "If not now, when? If not us, who?"
 
 What it boils down to is that currently the internet is only available to about 1/2 of the world (meaning billions are being left behind), it is centralized (a handful of large corporations own and profit off of our data), and it uses up to 10% of the world’s energy consumption. So, we’re building a new (peer-to-peer) internet that empowers equality (access), autonomy (data ownership, for example), and sustainability (reduces energy consumption). These values drive us forward.
 
