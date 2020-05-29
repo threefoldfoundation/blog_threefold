@@ -3,7 +3,7 @@ title: "Harmony Integrates with ThreeFold’s Decentralized Grid"
 author: Sacha
 author_image: sacha.jpg
 tags: partner, news, decentralization, peer-to-peer
-published_at: 2019-05-29
+published_at: 2020-05-29
 post_image: harmonyxthreefold.png
 ---
 
