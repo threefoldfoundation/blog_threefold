@@ -11,7 +11,7 @@ The ThreeFold Grid’s capacity is made available by farmers — entrepreneurs w
 
 Here’s how things play out on the ThreeFold Network:
 
-![Circular Economy](./img/circular_economy.jpg)
+![Circular Economy](circular_economy.jpg)
 
 It all starts with the ThreeFold Farmer.
 
