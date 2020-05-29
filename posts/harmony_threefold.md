@@ -15,6 +15,8 @@ Developers can now deploy their nodes and any IT workloads on Pangaea and the Th
 
 The ThreeFold team is very proud to welcome Harmony to the [Conscious Internet Alliance](https://consciousinternet.org) initiative led by ThreeFold, where together with many other planet and human-centric projects, they will collaborate on making our global Internet neutral again. 
 
+---
+
 ### About Harmony
 
 [Harmony](https://www.harmony.one) is a rapidly-growing open-source blockchain community created in 2019 and is about to release it’s Effective Proof-of-Blockstake (EPoS) in Q2 2020. After a year since their token sale on Binance, they already came a long way and positioned themselves as forward-thinkers empowering one of the most performant, scalable and secure blockchains with their EPoS mechanism and truly decentralized approach. 
