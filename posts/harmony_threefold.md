@@ -25,8 +25,6 @@ ThreeFold and Harmony look forward to the further development of this collaborat
 
 [Harmony](https://www.harmony.one) is a fast and open blockchain for decentralized applications. Its protocol has achieved secure and random state sharding, being the first sharded Proof of Stake on production. Harmony's Mainnet supports thousands of nodes in multiple shards, producing blocks in a few seconds with instant finality. The network's staking mechanism reduces centralization while supporting stake delegation, reward compounding and double-sign slashing. Harmony aims to build an open network of nodes operated and governed by a large community. Harmony has designed a novel Proof-of-Stake (PoS) mechanism for network security and economics - Effective Proof-of-Stake (EPoS) which reduces centralization and distributes rewards fairly to thousands of validators.
 
-Harmony has a beautiful open community that is widely followed by the industry. [Pangaea](https://docs.harmony.one/pangaea/)  represents their open network of nodes that consists of about +1000 nodes, of which +320 are independently run by community members in +100 countries. They recently launched [open staking for sharding on Harmony mainnet](https://staking.harmony.one/validators).
-
 ### About ThreeFold
 
 [ThreeFold](https://threefold.io) has developed the largest and most advanced peer-to-peer Internet grid in the world.  They launched the [ThreeFold Grid](https://threefold.io/capacity.html) V2.0 in  April 2020 – a  more performant, private & secure, affordable, and sustainable solution than centralized cloud and internet providers. 
