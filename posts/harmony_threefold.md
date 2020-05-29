@@ -23,9 +23,7 @@ ThreeFold and Harmony look forward to the further development of this collaborat
 
 ### About Harmony
 
-[Harmony](https://www.harmony.one) is a rapidly-growing open-source blockchain community created in 2019 and is about to release it’s Effective Proof-of-Blockstake (EPoS) in Q2 2020. In the year since their token sale on Binance, they have already come a long way and positioned themselves as forward-thinkers empowering one of the most performant, scalable and secure blockchains with their EPoS mechanism and truly decentralized approach. 
-
-Harmony has a beautiful open community that is widely followed by the industry. [Pangaea](https://docs.harmony.one/pangaea/)  represents their open network of nodes that consists of about +1000 nodes, of which +320 are independently run by community members in +100 countries. They recently launched [open staking for sharding on Harmony mainnet](https://staking.harmony.one/validators).
+[Harmony](https://www.harmony.one) is a fast and open blockchain for decentralized applications. Its protocol has achieved secure and random state sharding, being the first sharded Proof of Stake on production. Harmony's Mainnet supports thousands of nodes in multiple shards, producing blocks in a few seconds with instant finality. The network's staking mechanism reduces centralization while supporting stake delegation, reward compounding and double-sign slashing. Harmony aims to build an open network of nodes operated and governed by a large community. Harmony has designed a novel Proof-of-Stake (PoS) mechanism for network security and economics - Effective Proof-of-Stake (EPoS) which reduces centralization and distributes rewards fairly to thousands of validators.
 
 ### About ThreeFold
 
