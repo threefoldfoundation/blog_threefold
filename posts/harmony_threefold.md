@@ -15,7 +15,7 @@ Developers can now deploy their nodes and any IT workloads on Pangaea and the Th
 
 From ThreeFold Co-Founder Adnan Fatayerji,
 
-> "We’re super excited about our partnership with Harmony. Their approach to decentralization of applications and transactions perfectly couples with our approach of trying to bring an inclusive Internet. Together we will form a big powerhouse for positive change in this world."
+*"We’re super excited about our partnership with Harmony. Their approach to decentralization of applications and transactions perfectly couples with our approach of trying to bring an inclusive Internet. Together we will form a big powerhouse for positive change in this world."*
 
 ThreeFold and Harmony look forward to the further development of this collaboration.
 
