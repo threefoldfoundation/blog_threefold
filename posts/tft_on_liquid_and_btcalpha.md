@@ -10,7 +10,7 @@ post_image: liquid_btcalpha.jpeg
 
 ### Do you believe that the world needs change?
 
-Do you believe in decentralisation? Equality? Sustainability?
+Do you believe in decentralization? Equality? Sustainability?
 
 Do you believe in circular economies, where everyone is invited to partake and succeed?
 
@@ -20,7 +20,7 @@ It supports the ThreeFold Foundation - an open ecosystem that is shaping a bette
 
 ### Ready to support a new Internet?
 
-By buying and holding TFT, anyone can support the ThreeFold Foundation’s ability to achieve its next technological and growth milestones (see [Token Distribution Event](https://wiki.threefold.io/#/tdeoverview) for use-cases). From funding the next technological innovations to supporting the growth of ThreeFold use-cases - human and planet centric projects built on top of the ThreeFold Grid, TFT powers the expansion of the new Internet. 
+By buying and holding TFT, anyone can support the ThreeFold Foundation’s ability to achieve its next technological and growth milestones (see [Token Distribution Event](https://wiki.threefold.io/#/tdeoverview) for use-cases). From funding the next technological innovations to supporting the growth of ThreeFold use-cases built on top of the ThreeFold Grid, TFT powers the expansion of the new Internet. 
 
 The time has come for us to step up and shape the world we believe is possible. Join us and lets co-create our futures together.
 
