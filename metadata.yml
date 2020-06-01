@@ -9,7 +9,7 @@ pages_dir: "pages"
 images_dir: "assets/images"
 github_username: ""
 posts_per_page: 6
-allow_disqus: false
+allow_disqus: true
 
 sidebar_links:
   - title: google
