@@ -1,5 +1,5 @@
 ---
-title: "TFT listed on Liquid and BTC-Alpha"
+title: "Co-reate the new Internet. Participate with TFT"
 author: Sacha
 author_image: sacha.jpg
 tags: token
