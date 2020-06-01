@@ -8,17 +8,15 @@ post_image: liquid_btcalpha.jpeg
 ---
 
 
-### What are ThreeFold Tokens?
+### Do you believe that the world needs change?
 
-The [ThreeFold Token](https://wiki.threefold.io/#/token_why) (TFT) is the currency of the new Internet. It represents a unit of reservation of capacity (compute, storage & application) on the largest peer-to-peer network of capacity on earth - [The ThreeFold Grid](https://wiki.threefold.io/#/grid_what). This new Internet is built by independent [farmers](https://wiki.threefold.io/#/what_is_a_farmer), who connect hardware from all around the globe to provide the necessary decentralised storage and compute for individuals and organizations. ThreeFold Farmers get rewarded with TFT for providing rented capacity to the ThreeFold Grid, and users pay farmers for capacity rented in TFT.
+Do you believe in decentralisation? Equality? Sustainability?
 
-### Why get ThreeFold Tokens?
+Do you believe in circular economies, where everyone is invited to partake and succeed?
 
-TFT supports the growth of the new Internet empowered by ThreeFold and its [open ecosystem](https://wiki.threefold.io/#/partners). A truly peer-to-peer Internet would be incomplete without a decentralized currency as a fair and trustworthy medium of exchange for all stakeholders involved. TFT allows the whole ThreeFold open ecosystem to enjoy the [benefits and the fairness](https://wiki.threefold.io/#/token_features) of a decentralized currency. That’s why we created the ThreeFold Token (TFT).
+The ThreeFold Token is the currency of the new Internet and brings true solutions to all the above questions. 
 
-### TFT is now listed on Liquid and BTC-Alpha
-
-From the 1st of June 2020, TFT will be listed on [Liquid](https://blog.liquid.com/threefold-a-game-changing-technology) and [BTC-Alpha](https://btc-alpha.com/en/news/integration-of-tft-tradings-already-available). This marks a big step towards ThreeFold’s vision of being accessible to everyone, everywhere. By having the TFT listed on these exchanges, the ThreeFold open ecosystem now benefits from a wide range of possible exchange possibilities with hundreds of other digital currencies (and fiat currencies. By being present on these trusted exchanges, TFT is now more accessible to the world, given Liquid and BTC-Alpha services are available in 25+ countries around the world.  
+It supports the ThreeFold Foundation - an open ecosystem that is shaping a better world by empowering game-changing technology. ThreeFold is growing a green and conscious peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be autonomous, and providing equal chances to learn, partake and succeed.
 
 ### Ready to support a new Internet?
 
