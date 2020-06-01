@@ -1,5 +1,5 @@
 ---
-title: "Co-reate the new Internet. Participate with TFT"
+title: "Co-create the new Internet. Participate with TFT!"
 author: Sacha
 author_image: sacha.jpg
 tags: token
