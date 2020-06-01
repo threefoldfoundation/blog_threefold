@@ -26,6 +26,8 @@ By buying and holding TFT, anyone can support the ThreeFold Foundation’s abili
 
 The time has come for us to step up and shape the world we believe is possible. Join us and lets co-create our futures together.
 
-*Get TFT on [Liquid](https://app.liquid.com/exchange/TFTBTC)*
+*Get TFT on [Liquid](https://app.liquid.com/exchange/TFTBTC) now.*
 
-*Get TFT on [BTC-Alpha](https://btc-alpha.com/en/exchange/TFT_BTC)*
+*Get TFT on [BTC-Alpha](https://btc-alpha.com/en/exchange/TFT_BTC) now.*
+
+On behalf of our planet, humanity and the ThreeFold Community, we thank you for considering empowering a better world.
