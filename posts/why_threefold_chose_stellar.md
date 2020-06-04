@@ -3,7 +3,7 @@ title: "Why ThreeFold chose Stellar"
 author: Sam
 author_image: sam.jpg
 tags: token, partner
-published_at: 2020-5-1
+published_at: 2020-6-3
 post_image: stellar.jpg
 ---
 
