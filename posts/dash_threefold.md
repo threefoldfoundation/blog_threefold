@@ -4,7 +4,7 @@ author: Sacha
 author_image: sacha.jpg
 tags: partner, grid, news, decentralization
 published_at: 2020-06-30
-post_image: dashxthreefold.jpg
+post_image: dashxthreefold.jpeg
 ---
 
 
