@@ -20,7 +20,7 @@ The Dash community and any individual or organization interested in contributing
 
 Felix Mago, Co-Founder at Dash Next shared his enthusiasm around that opportunity: “We are excited to have Threefold as a partner as they are enabling us to host Dash Masternodes in a decentralized manner.”
 
-[You can follow this documentation to deploy full Dash nodes and MasterNodes on the ThreeFold grid  in 5 easy steps](https://forum.threefold.io/t/deploy-a-dash-node-in-5-steps-on-the-threefold-grid/509).
+[You can follow this documentation to deploy full Dash nodes and MasterNodes on the ThreeFold grid  in 5 easy steps.](https://forum.threefold.io/t/deploy-a-dash-node-in-5-steps-on-the-threefold-grid/509)
 
 ### About Dash:
 
