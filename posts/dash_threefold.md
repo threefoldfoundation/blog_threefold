@@ -1,5 +1,5 @@
 ---
-title: "Dash & Dash partner with ThreeFold"
+title: "Dash & Dash NEXT partner with ThreeFold"
 author: Sacha
 author_image: sacha.jpg
 tags: partner, grid, news, decentralization
