@@ -1,5 +1,5 @@
 ---
-title: "Dash Next partners with ThreeFold"
+title: "Dash partners with ThreeFold"
 author: Sacha
 author_image: sacha.jpg
 tags: partner, grid, news, decentralization
@@ -7,10 +7,9 @@ published_at: 2020-07-03
 post_image: dashxthreefold.jpeg
 ---
 
+[Dash](https://www.dash.org) / [Dash Next](https://dashnext.org/) and the [ThreeFold Foundation](https://threefold.io) are excited to officially announce their collaboration, effective the end of June 2020.  Dash and ThreeFold are community-driven organizations focused on peer-to-peer solutions that strive for decentralization and the empowerment of humanity.
 
-[Dash](https://www.dash.org) and the [ThreeFold Foundation](https://threefold.io) are excited to officially announce their collaboration, effective the end of June 2020.  Both are community-driven organizations focused on peer-to-peer solutions that strive for decentralization and empower humanity.
-
-Dash and ThreeFold will work together on developer projects on the ThreeFold Grid. The Dash developer community, and anyone interested in contributing to the Dash Blockchain, is being invited to use a truly decentralized and  affordable cloud alternative - [ThreeFold P2P Cloud](http://cloud.threefold.io). Developers can now deploy their Dash nodes and IT workloads on the ThreeFold Grid with an autonomous execution via [Smart Contracts for IT](https://sdk.threefold.io/#/smart_contract). 
+Dash / Dash Next and ThreeFold will work together on developer projects on the ThreeFold Grid. The Dash developer community, and anyone interested in contributing to the Dash Blockchain, is being invited to use a truly decentralized and  affordable cloud alternative - [ThreeFold P2P Cloud](http://cloud.threefold.io). Developers can now deploy their Dash nodes and IT workloads on the ThreeFold Grid with an autonomous execution via [Smart Contracts for IT](https://sdk.threefold.io/#/smart_contract). 
 
 Further, community members are being invited to explore possibilities in using the ThreeFold Grid’s capacity and peer-to-peer cloud for their own personal computing needs and projects. Anyone interested in being a node operator in the Dash Blockchain using the ThreeFold Grid would be highly encouraged to get started in a few steps following this [documentation](https://forum.threefold.io/t/deploy-a-dash-node-in-5-steps-on-the-threefold-grid/509).  
 
