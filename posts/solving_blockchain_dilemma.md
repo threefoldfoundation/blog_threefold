@@ -8,17 +8,19 @@ published_at:
 post_image:
 ---
 
-Introduction
+### Introduction
 
 Blockchain technology has the power to change the world of IT. There are a huge number of new initiatives using blockchain technology around the world all chasing different use cases. Some care little about the underlying technology but use blockchain-based projects and tokens/coins to get rich quick.
 
 In general there are two types of blockchains: proof of work blockchains and proof of stake blockchains. They differ in the way how they select who has created a truthful block securing a number of transactions (forever, as blockchains provide an immutable record of events). 
 
-Blockchain Basics
+### Blockchain Basics
 
 A blockchain is as the word says a chain of blocks of information. As shown in the graphic below the “blocks” contain information on transactions. Transactions are the transfer of value of a digital currency (token) from wallet A to wallet B. The “chain” aspect comes is where a part of the information stored in a block is a link to the previous block (a unique number). This is a very simple representation of what a blockchain is.
 
-Private, Permissioned or Public Blockchains
+![alt_text](./img/hashes.png)
+
+### Private, Permissioned or Public Blockchains
 
 The complexity around a blockchain comes from how the blockchain software is run. The software can run in two different ways: a small (or large) number of nodes controlled by one single entity (private blockchain) a person or a company, or a large (or small) number of nodes controlled by multiple entities (public) that do not know each other and where anyone interested to run a blockchain node can join.
 
@@ -30,13 +32,13 @@ A public blockchain allows anyone to join the blockchain operation and create a 
 
 For these three type of blockchains, there are different mechanisms to protect and guarantee the validity of transactions and make it tamper-proof.
 
-Private Data and Anonymous or Pseudo-Anonymous Data?
+### Private Data and Anonymous or Pseudo-Anonymous Data?
 
 For private blockchains, it is straightforward to see that all data that is stored on private blockchains is private and creates 100% anonymity for its users. The only entity or person that has access to information stored on the blockchain is the blockchain operator. This is comparable to how a bank operates. The bank knows everything about all of its customers and the customers only know about themselves - the non-bank customers do not know a thing.
 
 On a public blockchain, people can join and operate a blockchain node on which all information of that blockchain is stored. While private blockchains get their security from putting their blockchain nodes in secure buildings operated by trusted people a public blockchain achieves its security from having a large number of nodes that have the same data replicated over and over. A consensus algorithm is required in order to accept new data (new blocks) to the chain.
 
-Consensus Protocols for Public Blockchains
+### Consensus Protocols for Public Blockchains
 
 The main consensus protocols used today are Proof-of-Work, Proof-of-Stake, Proof-of-Authority, Raft and Federated Consensus. For the purpose of this document, we limit the considered consensus protocols to Proof-of-Work and Proof-of-Stake.
 
@@ -57,7 +59,7 @@ Proof of (Block) Stake (Low Cost in Compute and Energy)
 
 With proof of stake consensus algorithms, the consensus algorithm does not solve puzzles in a race to be the first. The first step is to identify and allow a certain number of nodes to be part of the blockchain. This is called a permissioned blockchain because you need to have permission to partake. This permission is given by distributing stakes.
 
-Proof of stake consensus mechanism is solving a puzzle, but the puzzle contains only static elements - not variables - based on different characteristics:
+Proof of Stake consensus mechanism is solving a puzzle, but the puzzle contains only static elements - not variables - based on different characteristics:
 - The block number
 - The content (part) of blocks a long time ago (>2000 blocks)
 - The transaction number (between the first and the last transaction) in the block of the stake transfer transaction all participating nodes needs to to
@@ -69,7 +71,7 @@ To make sure the one node that has solved the puzzle to match the difficulty lev
 
 The fact that the puzzle-solving includes historic block data and once a node is assigned to create the block and put it on a chain will not be able to use that block state for a period of time makes it very costly to try to tamper with the content of the block (and the next blocks). 
 
-The Blockchain Dilemma Problem
+#### The Blockchain Dilemma Problem
 
 Public and private blockchains have their specific advantages and disadvantages and are very good for specific use cases - but not all. If we list the specifics of both we end up with a table like this:
 
@@ -79,10 +81,14 @@ Public and private blockchains have their specific advantages and disadvantages 
 | People | Build, managed and controlled by unknown people | Build, managed, and controlled by known people |  
 | Speed | Slow by design - all data needs to be copied to all of them | Fast(er) and more efficient by design - a smaller number of copies of the blockchain data |   
 
+![alt_text](./img/tf_tech_approach.png)
+
 To make this system work and solve the blockchain dilemma we need to have three components working together in an orchestrated way. The three elements are:
-- A (simple) operating system that does not allow local and remote logins - a closed operating system that receives instructions to launch or kill applications. This operating system needs to be stateless to keep as simple as possible: Zero-OS
-- A virtual system administrator that is able to perform system administration tasks to make the system operate, selfheal and execute instructions from authenticated and authorized sources.  Zero-Robot (3Bot)
-- A ledger or database to store information in with regards to authentication, operational and financial transactions. Zero-Chain
+- A (simple) operating system that does not allow local and remote logins - a closed operating system that receives instructions to launch or kill applications. This operating system needs to be stateless to keep as simple as possible: **Zero-OS**
+- A virtual system administrator that is able to perform system administration tasks to make the system operate, selfheal and execute instructions from authenticated and authorized sources. **Zero-Robot (3Bot)**
+- A ledger or database to store information in with regards to authentication, operational and financial transactions. **Zero-Chain***
+
+![alt_text](./img/blocks.png)
 
 This system architecture allows for authenticated and trusted virtual system administrators to download, compile and deploy software on a grid of secure Zero-OS nodes with an immutable ledger that records all transactions, operational and financial. This presents a platform on which a public (permissioned) blockchain can be run securely without requiring trusted people to operate the nodes. 
 
