@@ -1,11 +1,11 @@
 
 ---
 title: "Solving the Blockchain Dilemma"
-author:
-author_image:
-tags: blockchain, decentralization, neutrality, sustainability
-published_at:
-post_image:
+author: x
+author_image: x
+tags: x
+published_at: x
+post_image: x
 ---
 
 ### Introduction
