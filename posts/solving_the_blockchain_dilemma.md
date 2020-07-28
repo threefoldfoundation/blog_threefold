@@ -1,4 +1,3 @@
-
 ---
 title: "Solving the Blockchain Dilemma"
 author: x
