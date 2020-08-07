@@ -7,20 +7,19 @@ published_at: x
 post_image: x
 ---
 
-### Edge Cloud not Grid Cloud?
-
+## Edge Cloud not Grid Cloud?
 
 The term Edge Cloud or, to be more precise, Edge Computing is one of the most exciting technology terms of these days. 
 
 <iframe width="750" height="421" src="https://www.youtube.com/embed/7uA9aoIfMZo" frameborder="0" allow="aautoplay; encrypted-media;" allowfullscreen></iframe>
 
-### Edge Computing Definition
+## Edge Computing Definition
 
 According to Wikipedia, "** Edge** computing **is** a distributed computing paradigm in which computation **is**largely or entirely performed on distributed device nodes known as smart devices or **edge** devices as opposed to primarily taking place in a centralized **cloud** environment. 
 
 In summary, this means that the cloud is divided into smaller pieces and distributed to the Edge. 
 
-### Drivers for Edge Computing
+## Drivers for Edge Computing
 
 Some latency-sensitive applications require fast response times to work correctly. A good example is self-driving cars. A lot of decisions in autonomous vehicles have to be made instantaneously; the decision to react to the unexpected while driving with high speed cannot afford to be slowed down by data traveling long distances to be processed. To improve the system's reliability, additional hops, and any further points of failure must be eliminated. Moving to compute as far out as possible to the Edge is the logical choice.
 
@@ -28,7 +27,7 @@ More generically, real-world situations are increasingly relying on an IT compon
 
 These thousands of situations are mostly in the IoT area. Still, other killer applications like streaming would greatly benefit from being served from the Edge rather than a distant central location.
 
-### Edge Computing Market Facts
+## Edge Computing Market Facts
 
 Due to the billions of IoT devices driven by various use cases like autonomous driving,  a massive demand for Edge Computing is evolving rapidly. According to the Digital Journal, the Edge Computing market is growing extremely fast. With a  CAGR of over 35.0% and the market is expected to reach  USD 33.75 billion by the end of 2023.
 
@@ -42,7 +41,7 @@ Grid Computing means a computer network of 100% distributed computer resources l
 
 Edge computing has risen from a need to have data processing and storage as close as possible to real-world situations.  The situation could be as simple as recording biometric data by a smartwatch to support the required information for a self-driving car to function as intended.  The necessity comes from having local computing and storage capacity - it can be used by multiple use cases (situations) but does not have to.
 
-### The Benefits of Edge Computing
+## The Benefits of Edge Computing
 
 Edge computing comes with specific benefits that are mandatory for the next evolution in the IT industry.  We have optimized the central model to such a degree that the network connects the central capacity to use cases in the field, the next bottleneck.  Edge computing is solving several challenges faced by real-world situations with the following benefits:
 
@@ -107,6 +106,5 @@ In most cases, their implementations are too slow, and that's why it does not ma
 The holy grail is something that hasn't been created before; it needs to be a versatile system that is self-manageable.  A large global conglomerate should not own the capacity - it should be owned by many. Therefore, it should have a commercial model where people individually can decide to partake in building this global edge solution and where there is a defined return on investment for those partakers.
 
 A few groups of people, like us, are creating decentralized solutions for this, owned by the many, and creating services for all. 
-
 
 
