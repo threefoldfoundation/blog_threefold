@@ -9,13 +9,13 @@ post_image: x
 
 ### Introduction
 
-Blockchain technology has the power to change the world of IT. There are a huge number of new initiatives using blockchain technology around the world all chasing different use cases. Some care little about the underlying technology but use blockchain-based projects and tokens/coins to get rich quick.
+Blockchain technology has the power to change the world of IT. There are a huge number of new initiatives using blockchain technology around the world, with countless use cases.
 
-In general there are two types of blockchains: proof of work blockchains and proof of stake blockchains. They differ in the way how they select who has created a truthful block securing a number of transactions (forever, as blockchains provide an immutable record of events). 
+In general there are two types of blockchains: proof of work blockchains and proof of stake blockchains. They are consensus algorithms on how transactions are verified and added to the ledger (forever, as blockchains provide an immutable record of events). More on these two types of blockchains below.
 
 ### Blockchain Basics
 
-A blockchain is as the word says a chain of blocks of information. As shown in the graphic below the “blocks” contain information on transactions. Transactions are the transfer of value of a digital currency (token) from wallet A to wallet B. The “chain” aspect comes when part of the information is stored in a block as a link to the previous block (a unique number). This is a very simple representation of what a blockchain is.
+A blockchain is, as the word says, a chain of blocks of information. As shown in the graphic below, the “blocks” contain information on transactions. Transactions are the transfer of value of a digital currency (token) from wallet A to wallet B. The “chain” aspect comes when part of the information is stored in a block as a link to the previous block (a unique number). This is a very simple representation of what a blockchain is.
 
 ![alt_text](hashes.png)
 
@@ -23,9 +23,9 @@ A blockchain is as the word says a chain of blocks of information. As shown in t
 
 The complexity around a blockchain comes from how the blockchain software is run. The software can run in two different ways: a small (or large) number of nodes controlled by one single entity (private blockchain) a person or a company, or a large (or small) number of nodes controlled by multiple entities (public) that do not know each other and where anyone interested to run a blockchain node can join.
 
-By running blockchain software under the supervision of one entity (private, centralised) you can quite easily make sure the information stored in the blockchain (transactions) are not tempered with by only operating a small number of nodes and deploy them in very safe physical locations (private data-centers, vaults, basements of offices etc). A private blockchain does not allow unknown entities to join and run the blockchain software.
+By running blockchain software under the supervision of one entity (private, centralised) you can quite easily make sure the information stored in the blockchain (transactions) are not tempered with by only operating a small number of nodes and deploying them in very safe physical locations (private data-centers, vaults, basements of offices etc). A private blockchain does not allow unknown entities to join and run the blockchain software.
 
-A permissioned blockchain is operated by known entities such as stakeholders of a given industry. It is a mix of both private and public blockchain. In this type of blockchain network, a participant may not need permission to join the network but needs permission to transact with another network participant
+A permissioned blockchain is operated by known entities such as stakeholders of a given industry. It is a mix of both private and public blockchains. In this type of blockchain network, a participant may not need permission to join the network but needs permission to transact with another network participant.
 
 A public blockchain allows anyone to join the blockchain operation and create a new blockchain node. The blockchain is run by multiple entities (decentralized, public) that have no relationship nor knowledge about each other 
 
