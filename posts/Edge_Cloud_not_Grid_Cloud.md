@@ -20,7 +20,7 @@ According to Wikipedia, "** Edge** computing **is** a distributed computing para
 
 In summary, this means that the cloud is divided into smaller pieces and distributed to the Edge. 
 
-## Drivers for Edge Computing
+### Drivers for Edge Computing
 
 Some latency-sensitive applications require fast response times to work correctly. A good example is self-driving cars. A lot of decisions in autonomous vehicles have to be made instantaneously; the decision to react to the unexpected while driving with high speed cannot afford to be slowed down by data traveling long distances to be processed. To improve the system's reliability, additional hops, and any further points of failure must be eliminated. Moving to compute as far out as possible to the Edge is the logical choice.
 
@@ -28,7 +28,7 @@ More generically, real-world situations are increasingly relying on an IT compon
 
 These thousands of situations are mostly in the IoT area. Still, other killer applications like streaming would greatly benefit from being served from the Edge rather than a distant central location.
 
-## Edge Computing market Facts
+### Edge Computing Market Facts
 
 Due to the billions of IoT devices driven by various use cases like autonomous driving,  a massive demand for Edge Computing is evolving rapidly. According to the Digital Journal, the Edge Computing market is growing extremely fast. With a  CAGR of over 35.0% and the market is expected to reach  USD 33.75 billion by the end of 2023.
 
@@ -48,7 +48,7 @@ Edge computing comes with specific benefits that are mandatory for the next evol
 
 ### Speed
 
-** speed** is probably the most crucial benefit of edge computing, as there are plenty of use cases that require near-real-time computing.  
+**Speed** is probably the most crucial benefit of edge computing, as there are plenty of use cases that require near-real-time computing.  
 
 ### Scalability
 
@@ -83,7 +83,7 @@ Today there are a few Edge Computing platforms out there that cover some require
 
 *   Microsoft, for instance, launched products like Azure IoT Edge and Azure Data Box Edge to extend their Datacenter based Azure cloud offering to the Edge. 
 *   Another attempt to bring centralized cloud technology to the Edge is the Openstack Edge Computing initiative, which is in the concept phase only so far. 
-* a new OS for the Edge is CoreOs, also known as Container Linux, which runs on nearly any platform, whether physical, virtual, or private/public cloud.
+*   A new OS for the Edge is CoreOs, also known as Container Linux, which runs on nearly any platform, whether physical, virtual, or private/public cloud.
 *   The more recently, there are a few blockchain-driven technologies out there pushing for edge capacity to exist.  Examples are:
     *   [SIA](https://sia.tech/)
     *   [Somn](https://sonm.com/)
@@ -92,7 +92,7 @@ Today there are a few Edge Computing platforms out there that cover some require
     *   [Limelight](https://www.limelight.com/products/iot-and-edge-cloud/)
     *   [Akamai](https://www.akamai.com/)
 
-## The holy grail
+## The Holy Grail
 
 The holy grail would be a self-healing Edge Grid. Edge, because of all the benefits Edge Computing brings to the user: Speed, Scalability, Reliability, Security, Versatility, and Process Optimization. Grid, because it fulfills the distributed workload requirements, a classic centralized cloud would generally be used without a centralized nature and all its disadvantages.
 
