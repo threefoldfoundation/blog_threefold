@@ -15,7 +15,7 @@ The term Edge Cloud or, to be more precise, Edge Computing is one of the most ex
 
 ## Edge Computing Definition
 
-According to Wikipedia, "** Edge** computing **is** a distributed computing paradigm in which computation **is**largely or entirely performed on distributed device nodes known as smart devices or **edge** devices as opposed to primarily taking place in a centralized **cloud** environment. 
+According to Wikipedia, "**Edge computing** is a distributed computing paradigm in which computation is largely or entirely performed on distributed device nodes known as smart devices or edge devices as opposed to primarily taking place in a centralized cloud environment. 
 
 In summary, this means that the cloud is divided into smaller pieces and distributed to the Edge. 
 
