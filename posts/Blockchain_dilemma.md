@@ -15,9 +15,9 @@ In general there are two types of blockchains: proof of work blockchains and pro
 
 ### Blockchain Basics
 
-A blockchain is as the word says a chain of blocks of information. As shown in the graphic below the “blocks” contain information on transactions. Transactions are the transfer of value of a digital currency (token) from wallet A to wallet B. The “chain” aspect comes is where a part of the information stored in a block is a link to the previous block (a unique number). This is a very simple representation of what a blockchain is.
+A blockchain is as the word says a chain of blocks of information. As shown in the graphic below the “blocks” contain information on transactions. Transactions are the transfer of value of a digital currency (token) from wallet A to wallet B. The “chain” aspect comes when part of the information is stored in a block as a link to the previous block (a unique number). This is a very simple representation of what a blockchain is.
 
-![alt_text](./img/hashes.png)
+![alt_text](hashes.png)
 
 ### Private, Permissioned or Public Blockchains
 
@@ -39,9 +39,9 @@ On a public blockchain, people can join and operate a blockchain node on which a
 
 ### Consensus Protocols for Public Blockchains
 
-The main consensus protocols used today are Proof-of-Work, Proof-of-Stake, Proof-of-Authority, Raft and Federated Consensus. For the purpose of this document, we limit the considered consensus protocols to Proof-of-Work and Proof-of-Stake.
+The main consensus protocols used today are Proof-of-Work and Proof-of-Stake.
 
-Proof of Work (High Cost in Compute and Energy)
+#### Proof of Work (High Cost in Compute and Energy)
 
 The proof of work consensus protocol is best explained as a race. Consensus is achieved by having all participating nodes solve a puzzle. The puzzle is a one-way translation of an amount of information consisting of the following items:
 - All the data that present the transactions in the block - all the data is known by all participating nodes
@@ -54,7 +54,7 @@ Once the block is completed, all nodes will get the complete block of transactio
 
 The node that will find the number first will announce that is has found a solution matching the required difficulty level and the variable number of shared with all nodes in the network to verify that his solution is correct. If a large portion of the nodes have verified the solution to be valid the solution is accepted and the block is added to the chain because consensus is reached.
 
-Proof of (Block) Stake (Low Cost in Compute and Energy)
+#### Proof of (Block) Stake (Low Cost in Compute and Energy)
 
 With proof of stake consensus algorithms, the consensus algorithm does not solve puzzles in a race to be the first. The first step is to identify and allow a certain number of nodes to be part of the blockchain. This is called a permissioned blockchain because you need to have permission to partake. This permission is given by distributing stakes.
 
@@ -80,16 +80,25 @@ Public and private blockchains have their specific advantages and disadvantages 
 | People | Build, managed and controlled by unknown people | Build, managed, and controlled by known people |  
 | Speed | Slow by design - all data needs to be copied to all of them | Fast(er) and more efficient by design - a smaller number of copies of the blockchain data |   
 
-![alt_text](./img/tf_tech_approach.png)
+So what if we want to have a secure, performant and easy to manage blockchain solution?  This is not what can be delivered by either type of blockchains.  We have to create a new type of blockchain that combines the best of both worlds and delivers.
 
-To make this system work and solve the blockchain dilemma we need to have three components working together in an orchestrated way. The three elements are:
-- A (simple) operating system that does not allow local and remote logins - a closed operating system that receives instructions to launch or kill applications. This operating system needs to be stateless to keep as simple as possible: **Zero-OS**
-- A virtual system administrator that is able to perform system administration tasks to make the system operate, selfheal and execute instructions from authenticated and authorized sources. **Zero-Robot (3Bot)**
-- A ledger or database to store information in with regards to authentication, operational and financial transactions. **Zero-Chain***
+The key element in finding a solution for this problem is to take the human element out of it.  The fact that when you deploy blockchains solutions in locations without human intervention means that you need to create a different deployment mechanism that takes out people touching code, compiling code, deploying code and in the end operating the machine in which the code runs.
 
-![alt_text](./img/blocks.png)
+A way to get around the trusted people problem is to select a platform on which software can be downloaded, compiled, installed and operated without human intervention.  Such a platform is a unique platform which has not been developed and launched. Such a platform would have to have the following characteristics
+
+![alt_text](tf_tech_approach.png)
+
+To make this system work and solve the blockchain dilemma we need to have three components working together in an orchestrated way.  The three elements are:
+
+*   A (simple) operating system that does not allow local and remote logins - a closed operating system that receives instructions to launch or kill applications.  This operating system  needs to be stateless to keep as simple as possible: **Zero-OS**
+*   A virtual system administrator that is able to perform system administration tasks to make the system operate, selfheal and execute instructions from authenticated and authorized sources.  **Zero-Robot** (3Bot)
+*   A ledger or database to store information in with regards to authentication, operational and financial transactions. **Zero-Chain**
+
+![alt_text](blocks.png)
 
 This system architecture allows for authenticated and trusted virtual system administrators to download, compile and deploy software on a grid of secure Zero-OS nodes with an immutable ledger that records all transactions, operational and financial. This presents a platform on which a public (permissioned) blockchain can be run securely without requiring trusted people to operate the nodes. 
 
 In such architecture we can build and deploy a high-performance secure blockchain which are the combined benefits of a public and private blockchain.
+
+Visit the ThreeFold Foundation's [wiki](wiki.threefold.io) solves the Blockchain Dilemma and more to bring a new era for IT.
 
