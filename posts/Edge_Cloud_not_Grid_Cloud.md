@@ -74,7 +74,7 @@ The most significant generic hurdle to overcome is that there is going to be a l
 *   Edge Computing hardware will consist of datacenter grade hardware and all sorts of other types of hardware.  The Edge might include some smaller sized data center facilities but also include different types of "homes" for compute and storage equipment.  Think of transportation as a specific use case - capacity on maritime vessels, capacity on trains, and vehicles' capacity.  Hardware will have to accommodate different use cases,  price levels, form factors, and power consumption. 
 *   Edge hardware needs a lightweight OS that is very close to the hardware components to get the maximum out of compute and storage capacity.  Less is more - for real Edge capacity, local people won't be able to interact with edge capacity - one further step - there will be no need to have remote people access these devices for maintenance purposes.  The ultimate edge computing solution will have a significant amount of self-sustainability - where there are no more highly technically skilled people required to keep the capacity available, up and running.
 *   In most cases, Edge means being remote, and having no access to humans or humans are only too expensive for the specific use case. 
-*   Power outages or no network availability will cause system failures. The ideal OS to deal with this revolves around no people; the zero-touch approach should be stateless and needs to have self-healing capabilities run by automation software robots.
+*   Power outages or no network availability will cause system failures. The ideal OS to deal with this revolves around no people; the zero-touch approach should be stateless and needs to have self-healing capabilities run by automation software robots.<br />
 
 ## Existing Edge Computing Solutions
 
@@ -89,7 +89,7 @@ Today there are a few Edge Computing platforms out there that cover some require
     *   [Filecoin](https://filecoin.io/)
 *   Content delivery networks with a lot of "capacity" sitting close to end users are expanding their capabilities beyond content delivery
     *   [Limelight](https://www.limelight.com/products/iot-and-edge-cloud/)
-    *   [Akamai](https://www.akamai.com/)
+    *   [Akamai](https://www.akamai.com/)<br />
 
 ## The Holy Grail
 
