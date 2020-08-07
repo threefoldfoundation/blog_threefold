@@ -7,8 +7,7 @@ published_at: x
 post_image: x
 ---
 
-### Introduction
-
+## Introduction
 
 ### The "cost" of complexity in traditional IT
 
@@ -40,7 +39,7 @@ For decentralized systems on [Wikipedia](https://en.wikipedia.org/wiki/Decentral
 
 So nature has provided us with solid examples of centralized and decentralized systems.  For much of what works in the modern world, we have ended up using the centralized model governing enterprises and countries.  Various industries have also adopted the centralized model where there is a pyramid structure, and everything works towards the alpha males.
 
-### A different approach to creating and operating IT workloads
+## A different approach to creating and operating IT workloads
 
 What if we can develop a new concept for creating, deploying, and operating IT workloads.  What if we say goodbye to the centralized way of controlling IT workloads.  Can we develop an idea that works in a decentralized way?
 
