@@ -20,10 +20,12 @@ The ThreeFold team is inviting node operators around the world to contribute to 
 
 _"It's been exciting to work with the ThreeFolds team as they build their vision for providing node operators with a platform to decentralize their IT infrastructure,"_ said Christine Perry, VP Solutions Engineering, SKALE Labs. _"Not only do we share the mutual goal of a truly decentralized secure, scalable network. SKALE developers will be able use ThreeFold's peer-to-peer cloud to more easily build highly scalable Ethereum Dapps."_
 
-About SKALE: 
+### About SKALE: 
+
 SKALE is an elastic blockchain network that gives developers the ability to easily provision highly configurable fully decentralized chains that are instantly compatible with Ethereum. SKALE chains can execute sub-second block times, run up to 2,000 tps per chain, and run full-state smart contracts in addition to decentralized storage, execute Rollups, and machine learning in EVM. The SKALE Network is an open-source project with many contributors including SKALE Labs, Inc. whose offices are in San Francisco, CA, and Kharkiv, Ukraine. The SKALE Network’s supporters include Blockchange, ConsenSys Labs, Hashed, HashKey, Floodgate, Multicoin Capital, Recruit Holdings, Signia VP, and Winklevoss Capital. The SKALE Network is supported by top validators in the world including Blockware, ConsenSys, Chorus One, Dokia, Figment Networks, Hashed, Staked, and StakewithUs, as well as key infrastructure players Bison Trails, Blockdaemon and Ankr. For more information please visit [skale.network](https://www.skale.network), [@SkaleNetwork](https://twitter.com/skalenetwork) on Twitter, and [@skaleofficial](https://t.me/skaleofficial) on telegram.
 
-About ThreeFold: 
+### About ThreeFold: 
+
 ThreeFold has developed the largest and most advanced peer-to-peer internet grid in the world, that enables individuals and organizations  to build and deploy their web2 and web3 applications in a complete decentralized, private, sustainable, and autonomous IT infrastructure through its peer-to-peer cloud capacity and developer tools. 
 
 With a collective and incentivized ecosystem of Farmers around the globe, the [ThreeFold Grid](https://threefold.io/) has achieved 80+ petabytes of capacity, 18K+ CPU cores, distributed in 21 countries, and is constantly expanding across the edges. ThreeFold has a broad array of technology partners such as HPE, DigiByte, Stellar, Neo, Dash, TomoChain,  HoloChain Harmony, WaykiChain, SelfKey  and many others. 
