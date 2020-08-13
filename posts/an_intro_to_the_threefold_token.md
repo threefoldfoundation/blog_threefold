@@ -15,8 +15,9 @@ Capacity is a new high-demand market, and the TFT will be the medium of exchange
 No ThreeFold Tokens have ever been minted. ThreeFold Tokens are generated through a process called “Farming”. Farming happens when active internet capacity is added to the ThreeFold Grid. Independent farmers earn ThreeFold Tokens (TFT) by providing neutral and decentralized internet capacity, thus expending the usable Grid. Therefore no central entity controls the internet.
 
 ### 5 good reasons to buy ThreeFold Tokens
+
 1. TFTs are exclusively generated when new capacity is added to the TF Grid. There are no centralized issuers. Tokens have not been created out of thin air.
-2. While the threeFold Grid can expand, a maximum of 2 Billion TFTs can be in circulation. This limit ensures stability of value and incentivization for all stakeholders.
+2. While the threeFold Grid can expand, a maximum of 4 Billion TFTs can be in circulation. This limit ensures stability of value and incentivization for all stakeholders.
 3. TFT lives on the Stellar Blockchain. TFT holders benefit from a big ecosystem of proven wallets and mediums of exchange.
 4. By employing Stellar technology, TFT transactions and smart contracts are powered by one of the most energy-efficient blockchains available. Furthermore, TFT is the medium of exchange on the greenest internet network in the world.
 5. The market for farming, cultivating and trading TFT is open to all. Anyone with internet connection, power supply and necessary harware can become a Farmer or trade ThreeFold tokens (TFT).

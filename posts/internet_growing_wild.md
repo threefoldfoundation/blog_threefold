@@ -43,7 +43,7 @@ ThreeFold believes IT can do a much better job at being more sustainable - in fa
 
 Power consumption is a function of better compute and storage performance that in theory would require more racks and cooling. ThreeFold's architectural approach brought solutions that enables it's Farmers to achieve roughly 3 times the performance per rack (so it uses fewer racks) and the racks require less energy than typical racks in the industry. 
 
-Read more about how ThreeFold achieves sustainability in the following blog: [10x times power savings, is this possible?](10x_times_power.md)
+Read more about how ThreeFold achieves sustainability in the following blog: [10x times power savings, is this possible?](/blog/tfblog/posts/10-times-power-savings-is-this-possible)
 
 ### Internet capacity is expensive
 
