@@ -10,6 +10,7 @@ images_dir: "assets/images"
 github_username: ""
 posts_per_page: 6
 allow_disqus: false
+cookie_consent_popup: true
 
 sidebar_links:
   - title: google
