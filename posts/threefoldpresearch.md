@@ -1,10 +1,10 @@
 ---
-title: "ThreeFold and Presearch partner to host decentralized search nodes"
+title: "ThreeFold and Presearch partner around decentralized search nodes and storage"
 author: Benje
 author_image: benje.jpg
 tags: partner, news, tech, decentralization
 published_at: 2020-11-27
-post_image: digibyte&threefold.jpeg
+post_image: threefoldpresearch.png
 ---
 
 Privacy and decentralization are some of the values shared by both [Presearch](https://www.presearch.io/) and [ThreeFold](https://threefold.io), at the core of their missions to create scalable technologies that can positively impact the lives of millions of individuals and enterprises around the globe.
