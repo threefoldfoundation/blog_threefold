@@ -13,21 +13,21 @@ Presearch and ThreeFold are thrilled to officially announce their collaborative 
 
 Presearch (and its node and storage infrastructure) will benefit from ThreeFold’s peer-to-peer cloud in two different ways:
 
-## 1. Powering Presearch node operators with a decentralized cloud infrastructure
+### 1. Powering Presearch node operators with a decentralized cloud infrastructure
 
 The Presearch community will be able to deploy their Presearch nodes in a few clicks in a completely decentralized cloud infrastructure, using the ThreeFold peer-to-peer cloud and its developer tools. Thus, they can escape the monopolies of centralized cloud providers, and reduce the technical complexity of running Blockchain nodes. 
 
-Colin Pape, Presearch’s CEO, said in a statement “We are excited to partner with the ThreeFold team to offer our community members an easy way to quickly deploy Presearch Nodes on ThreeFold decentralized peer-to-peer internet grid, the world’s largest server network powered by blockchain technology.”
+Colin Pape, Presearch’s CEO, said in a statement, “We are excited to partner with the ThreeFold team to offer our community members an easy way to quickly deploy Presearch Nodes on ThreeFold decentralized peer-to-peer internet grid, the world’s largest server network powered by blockchain technology.”
 
 Presearch has recently opened its beta testing program for node operators looking to become part of the revolutionary network that is changing the way individuals around the world can search the web – in a significantly more private, inclusive, and rewarding environment. Anyone who believes in the decentralization of search engines should [sign up to their beta testers list](https://presearchcommunity.typeform.com/to/UkDumktm) and get in touch with Presearch to be one of the early adopters. 
 
-## 2. Leveraging ThreeFold’s decentralized storage to store the future of the search engine experience
+### 2. Leveraging ThreeFold’s decentralized storage to store the future of the search engine experience
 
 Presearch and ThreeFold are exploring the usage of ThreeFold’s decentralized storage capacity to store and archive Presearch’s indexes and other data running the search engine. The main goal is to provide an unbreakable data storage and backup infrastructure for the future of the search engine experience that the top-notch team behind Presearch is building.
 
 In addition, ThreeFold looks forward to advocating for Presearch and integrating the decentralized search engine into its current and future solutions for a more private and inclusive internet experience.
 
-Powering the ThreeFold community’s search engine experience with Presearch. 
+### Powering the ThreeFold community’s search engine experience with Presearch
 
 ThreeFold will be establishing Presearch’s decentralized search engine as its main search engine partner, advocating for its usage within its growing community of developers, cloud capacity farmers, enterprises, and users. 
 
