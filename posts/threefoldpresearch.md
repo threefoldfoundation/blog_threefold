@@ -1,5 +1,5 @@
 ---
-title: "ThreeFold and Presearch partner around decentralized search nodes and storage"
+title: "ThreeFold and Presearch partner to decentralize search nodes and storage"
 author: Benje
 author_image: benje.jpg
 tags: partner, news, tech, decentralization
