@@ -1,7 +1,7 @@
 ---
 title: "Zero People IT is the Future"
-author: Nickolay
-author_image: nickolay.jpg
+author: Roel
+author_image: roel.jpg
 tags: tech, decentralization, peer-to-peer
 published_at: 2020-08-17
 ---
